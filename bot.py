@@ -156,4 +156,4 @@ async def yardim_komutu(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run("MTUxNzU3NzU4OTE2MDY3NzQ0Nw.GCY9zE.dsS1NCSCp-Cw9JZQzsvZ_lAoWYkCcqpGQ0VA5Q")
+bot.run("")
